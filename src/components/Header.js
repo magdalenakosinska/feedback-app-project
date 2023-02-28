@@ -2,7 +2,9 @@ function Header() {
   return (
     <header>
       {" "}
-      <div className="container">Header</div>
+      <div className="container">
+        <h2>Feedback App</h2>
+      </div>
     </header>
   );
 }
